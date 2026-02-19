@@ -128,7 +128,6 @@ If you use **PyWPEM** in your research, please cite:
 </table>
 
 ---
----
 
 ## Contributing
 
