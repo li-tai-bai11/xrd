@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="https://pyxplore.netlify.app/">Documentation</a> ·
-  <a href="https://arxiv.org/abs/2602.16372v1">Paper (arXiv)</a> ·
+  <a href="https://pyxplore.netlify.app/">Algorithm Documentation</a> ·
+  <a href="https://arxiv.org/abs/2602.16372">Paper (arXiv)</a> ·
   <a href="https://www.researchgate.net/publication/400962382_Supplementary_Information_for_AI-Driven_Structure_Refinement_of_X-ray_Diffraction?_sg%5B0%5D=Dtl5qCZhJGfQkbUlv7_PX1Kx7TwdxuOHNLZVyFl1KGrHUSRNKl2vANa2VizCBgzhvFZHOprN-9U2OY37DKVt7bfexdXMbmSSl2dV9rdY.wb_SKqOPT-AERbwQd_WLh7pYYIbpMj0u3f0wWIKra43GjGnKbuLqobFTgQ1YfutJIXWN8RGFN5y9oCoEcEyeoQ&_tp=eyJjb250ZXh0Ijp7ImZpcnN0UGFnZSI6ImxvZ2luIiwicGFnZSI6InByb2ZpbGUiLCJwcmV2aW91c1BhZ2UiOiJwcm9maWxlIiwicG9zaXRpb24iOiJwYWdlQ29udGVudCJ9fQ">Supplementary Information</a> ·
   <a href="https://www.pepy.tech/projects/PyXplore">Download Statistics</a>
 </p>
@@ -32,7 +32,7 @@ Other tools include [XQueryer](https://github.com/Bin-Cao/XQueryer) for initial 
 
 ## Overview [![PyPI Downloads](https://static.pepy.tech/personalized-badge/pyxplore?period=total&units=INTERNATIONAL_SYSTEM&left_color=BLACK&right_color=GREEN&left_text=downloads)](https://pepy.tech/projects/pyxplore)
 
-**PyWPEM** is a modular Python framework for **X-ray diffraction (XRD) simulation, decomposition, quantitative analysis, and AI-assisted structure refinement**.
+**[PyXplore](https://pyxplore.netlify.app/)** is a modular Python framework for **X-ray diffraction (XRD) simulation, decomposition, quantitative analysis, and AI-assisted structure refinement**.
 
 It integrates:
 
@@ -44,6 +44,21 @@ It integrates:
 * AI-driven structural refinement
 
 The toolkit is designed for reproducible scientific workflows in materials characterization and AI for Science research.
+
+
+
+Install from PyPI:
+
+```bash
+pip install PyXplore
+```
+
+Upgrade to the latest version:
+
+```bash
+pip install --upgrade PyXplore
+```
+
 
 ---
 
@@ -161,12 +176,5 @@ This project is released under the MIT License.
 
 Free for academic and commercial use.
 Please cite related publications when used in scientific research.
-
----
-
-## Contributors
-
-[![Contributors](https://contrib.rocks/image?repo=Bin-Cao/PyWPEM\&v=6)](https://github.com/Bin-Cao/PyWPEM/graphs/contributors)
-
 
 
