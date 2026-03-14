@@ -48,7 +48,7 @@ The toolkit is designed for reproducible scientific workflows in materials chara
 
 
 
-Install from PyPI:
+Install from PyPI and [Install the dependencies](https://github.com/Bin-Cao/PyWPEM/blob/main/INSTALL.md):
 
 ```bash
 pip install PyXplore
